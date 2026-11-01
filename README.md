@@ -1,5 +1,5 @@
 
-# Hey, I'm Raz Mazliah 👋
+# Hey, I'm Raz Mazlih 👋
 
 ### Software Engineering Student | Python & Backend Development | AI-Powered Applications
 
